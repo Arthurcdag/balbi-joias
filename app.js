@@ -16,7 +16,6 @@ function selectSubject(value) {
   if(!subjects.includes(value)) throw new Error('Assunto inválido.');
   editMessage(); subject.value = value;
 }
-document.querySelectorAll('[data-subject]').forEach(link => link.addEventListener('click', () => selectSubject(link.dataset.subject)));
 function prepareMessage() {
   if(!form.reportValidity()) return null;
   const name = nameInput.value.trim();

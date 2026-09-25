@@ -20,7 +20,9 @@ GitHub Pages configurado para a raiz da branch `main`. Novas alterações nessa 
 
 ## Atendimento
 
-O formulário prepara uma mensagem revisável para o WhatsApp **+55 21 96725-0075**. Não envia mensagens automaticamente, não cria cadastro e não confirma agendamentos. Nome e descrição são opcionais. O visitante envia a mensagem no WhatsApp.
+Os botões de contato abrem diretamente o WhatsApp **+55 21 96725-0075**, com mensagens específicas para avaliação, compra, conserto ou penhor. Os links funcionam sem JavaScript e sem preencher o formulário.
+
+O formulário continua disponível para quem deseja preparar uma mensagem com mais detalhes. Nenhum link ou formulário envia mensagens automaticamente, cria cadastro ou confirma agendamentos. O visitante toca em enviar no WhatsApp. Um chatbot de atendimento ainda não está conectado a este site ou número.
 
 Informações comerciais consultadas no site de referência em 23/09/2026. Fotografias das categorias são ilustrativas; não representam estoque disponível. Não há preços ou depoimentos inventados. Consulte `FONTES.md`.
 
